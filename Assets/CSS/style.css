@@ -1,17 +1,24 @@
 * {
     box-sizing: border-box;
-    text-align: center;
   }
 body {
     background-image: url('../../Assets/Images/graystone.png');
-    
+    background-color: #4aaaa5;
 }
 
 header {
 
 }
 
+#profile {
+    float: left;
+    border: 2px solid gray;
+    width: 20%;
+    height: 190px;
+}
+
 nav {
+    float: left;
     width: 100%;
     height: 200px;
     background-color: gray;
