@@ -11,29 +11,36 @@ body {
     float: left;
     border: 2px solid gray;
     width: 20%;
-    height: 190px;
+    height: 100px;
 }
 
 header {
     float: left;
     width: 100%;
-    height: 200px;
-    background-color: gray;
-    background-image: url('../../Assets/Images/funky-lines.png');
-    border-bottom: 5px solid darkgray;
+    height: 100px;
+    background-color: #ffffff;
+    border-bottom: 2px solid darkgray;
     margin-bottom: 10px;
     position: fixed;
     top: 0;
     left: 0;
-    padding-left: 15%;
+    padding-left: 10.38%;
+    padding-top: 2px;
 }
 
 h1 {
-    float: left;
-    height: 50%;
+    height: 50;
     width: 100px;
     font-family: 'Times New Roman', Times, serif;
-    background-color: white;
+    background-color: #4aaaa5;
     padding: 20px;
+    
 }
 
+article {
+    margin-top: 125px;
+    width: 80%;
+    height: 1200px;
+    background-color: #ffffff;
+
+}
