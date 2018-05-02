@@ -5,6 +5,7 @@ body {
     background-image: url('../../Assets/Images/graystone.png');
     background-color: #4aaaa5;
     height: 3000px;
+    align-content: center;
 }
 
 #profile {
@@ -34,13 +35,23 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
     padding: 20px;
+    font-style: italic;
     
 }
 
 article {
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 125px;
     width: 80%;
     height: 1200px;
     background-color: #ffffff;
+    padding: 25px;
+
+}
+
+aside {
+    width: 200px;
+    height: 200px;
 
 }
